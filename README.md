@@ -14,3 +14,7 @@
 <img width="" height="" src="./pic/5-2.PNG"></img>
 <img width="" height="" src="./pic/5-3.PNG"></img>
 <img width="" height="" src="./pic/5-4.PNG"></img>
+
+# 6주차(2022-04-17)
+<img width="" height="" src="./pic/6-1.PNG"></img>
+<img width="" height="" src="./pic/6-2.PNG"></img>
